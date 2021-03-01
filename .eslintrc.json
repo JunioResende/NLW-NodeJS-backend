@@ -19,6 +19,7 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "@typescript-eslint/ban-types": "off",
     "@typescript-eslint/explicit-module-boundary-types" : "off",
     "camelcase": "off",
     "class-methods-use-this": "off",
