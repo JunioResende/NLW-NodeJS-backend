@@ -6,7 +6,7 @@
 # 📖 Sobre
 
 **NPS** ou Net Promoter Score é uma métrica criada por Fred Reichheld para medir a satisfação dos clientes, perguntando “de 0 a 10, o quanto você indicaria nossa empresa aos amigos. Esse Projeto foi criado dentro da
-**NLW4** da **Rocketseat**. 🚀**A NLW é uma experiência online com muito prático, desafios e hacks que ajuda o desenvolvedor a evoluir sempre ao próximo nível**🚀.
+**NLW4** da **Rocketseat**. 🚀**A NLW é uma experiência online com muita prática, desafios e hacks que ajuda o desenvolvedor a evoluir sempre ao próximo nível**🚀.
 
 # 👨‍💻 Tecnologias utilizadas
 
